@@ -1,1 +1,23 @@
-{"name":"extiverse\/most-downloaded-extensions","description":"Most downloaded Flarum extensions.","license":"MIT","require":{"flarum\/core":"0.1.0-beta.13","wiwatsrt\/flarum-ext-best-answer":"*","flagrow\/flarum-ext-analytics":"*","fof\/links":"*","fof\/pages":"*","clarkwinkelmann\/flarum-ext-emojionearea":"*","extiverse\/bazaar":"*","v17development\/flarum-seo":"*","datitisev\/flarum-ext-dashboard":"*","fof\/profile-image-crop":"*","fof\/polls":"*","fof\/merge-discussions":"*","jordanjay29\/flarum-ext-summaries":"*","fof\/byobu":"*","fof\/reactions":"*","clarkwinkelmann\/flarum-ext-circle-groups":"*"}}
+{
+    "name": "extiverse\/most-downloaded-extensions",
+    "description": "Most downloaded Flarum extensions.",
+    "license": "MIT",
+    "require": {
+        "flarum\/core": "0.1.0-beta.13",
+        "wiwatsrt\/flarum-ext-best-answer": "*",
+        "flagrow\/flarum-ext-analytics": "*",
+        "fof\/links": "*",
+        "fof\/pages": "*",
+        "clarkwinkelmann\/flarum-ext-emojionearea": "*",
+        "extiverse\/bazaar": "*",
+        "v17development\/flarum-seo": "*",
+        "datitisev\/flarum-ext-dashboard": "*",
+        "fof\/profile-image-crop": "*",
+        "fof\/polls": "*",
+        "fof\/merge-discussions": "*",
+        "jordanjay29\/flarum-ext-summaries": "*",
+        "fof\/byobu": "*",
+        "fof\/reactions": "*",
+        "clarkwinkelmann\/flarum-ext-circle-groups": "*"
+    }
+}
