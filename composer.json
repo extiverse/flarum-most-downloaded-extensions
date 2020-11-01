@@ -10,14 +10,14 @@
         "amaurycarrade/flarum-ext-syndication": "*",
         "avatar4eg/flarum-ext-transliterator": "*",
         "askvortsov/flarum-categories": "*",
-        "avatar4eg/flarum-ext-share-social": "*",
         "askvortsov/flarum-pwa": "*",
-        "antoinefr/flarum-ext-bbcode-fa": "*",
+        "avatar4eg/flarum-ext-share-social": "*",
+        "bokt/flarum-cache-assets": "*",
         "askvortsov/flarum-moderator-warnings": "*",
+        "antoinefr/flarum-ext-bbcode-fa": "*",
         "avatar4eg/flarum-ext-geotags": "*",
-        "askvortsov/flarum-copy-links": "*",
+        "believer-ufa/flarum-file-upload": "*",
         "askvortsov/flarum-discussion-templates": "*",
-        "absolutezeroo/support-flarum": "*",
-        "askvortsov/flarum-auth-sync": "*"
+        "beeta-dev/ext-userinfo": "*"
     }
 }
