@@ -14,10 +14,10 @@
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/profile-image-crop": "*",
         "fof/byobu": "*",
-        "datitisev/flarum-ext-dashboard": "*",
+        "fof/upload": "*",
         "fof/user-directory": "*",
         "fof/merge-discussions": "*",
-        "fof/upload": "*",
-        "fof/follow-tags": "*"
+        "fof/follow-tags": "*",
+        "datitisev/flarum-ext-dashboard": "*"
     }
 }
