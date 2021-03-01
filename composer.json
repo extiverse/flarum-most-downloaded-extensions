@@ -13,11 +13,11 @@
         "v17development/flarum-seo": "*",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/profile-image-crop": "*",
-        "fof/byobu": "*",
         "fof/upload": "*",
+        "fof/byobu": "*",
         "fof/user-directory": "*",
         "fof/merge-discussions": "*",
         "fof/follow-tags": "*",
-        "datitisev/flarum-ext-dashboard": "*"
+        "fof/reactions": "*"
     }
 }
