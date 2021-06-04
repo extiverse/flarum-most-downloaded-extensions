@@ -3,7 +3,7 @@
     "description": "Most downloaded Flarum extensions.",
     "license": "MIT",
     "require": {
-        "flarum/core": "v1.0.0",
+        "flarum/core": "v1.0.1",
         "fof/formatting": "*",
         "fof/links": "*",
         "fof/user-bio": "*",
