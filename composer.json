@@ -3,7 +3,7 @@
     "description": "Most downloaded Flarum extensions.",
     "license": "MIT",
     "require": {
-        "flarum/core": "v1.0.2",
+        "flarum/core": "v1.0.4",
         "fof/formatting": "*",
         "fof/links": "*",
         "fof/user-bio": "*",
@@ -11,11 +11,11 @@
         "fof/pages": "*",
         "michaelbelgium/flarum-discussion-views": "*",
         "fof/polls": "*",
-        "v17development/flarum-seo": "*",
         "fof/user-directory": "*",
+        "v17development/flarum-seo": "*",
         "fof/profile-image-crop": "*",
-        "fof/byobu": "*",
         "fof/follow-tags": "*",
+        "fof/byobu": "*",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/merge-discussions": "*",
         "fof/reactions": "*"
