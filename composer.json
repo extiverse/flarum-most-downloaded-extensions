@@ -4,20 +4,20 @@
     "license": "MIT",
     "require": {
         "flarum/core": "v1.0.4",
+        "clarkwinkelmann/flarum-ext-emojionearea": "*",
+        "fof/byobu": "*",
+        "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/links": "*",
+        "fof/merge-discussions": "*",
+        "fof/pages": "*",
+        "fof/polls": "*",
+        "fof/profile-image-crop": "*",
+        "fof/reactions": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
-        "fof/pages": "*",
-        "michaelbelgium/flarum-discussion-views": "*",
-        "fof/polls": "*",
         "fof/user-directory": "*",
-        "v17development/flarum-seo": "*",
-        "fof/profile-image-crop": "*",
-        "fof/follow-tags": "*",
-        "fof/byobu": "*",
-        "clarkwinkelmann/flarum-ext-emojionearea": "*",
-        "fof/merge-discussions": "*",
-        "fof/reactions": "*"
+        "michaelbelgium/flarum-discussion-views": "*",
+        "v17development/flarum-seo": "*"
     }
 }
