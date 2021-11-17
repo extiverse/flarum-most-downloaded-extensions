@@ -6,7 +6,7 @@
         "flarum/core": "v1.1.1",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/best-answer": "*",
-        "fof/byobu": "*",
+        "fof/default-user-preferences": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/links": "*",
