@@ -5,6 +5,7 @@
     "require": {
         "flarum/core": "v1.1.1",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
+        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
@@ -12,7 +13,6 @@
         "fof/merge-discussions": "*",
         "fof/pages": "*",
         "fof/polls": "*",
-        "fof/profile-image-crop": "*",
         "fof/reactions": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
