@@ -3,7 +3,7 @@
     "description": "Most downloaded Flarum extensions.",
     "license": "MIT",
     "require": {
-        "flarum/core": "v1.1.1",
+        "flarum/core": "^v1.1.1",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/byobu": "*",
         "fof/follow-tags": "*",
