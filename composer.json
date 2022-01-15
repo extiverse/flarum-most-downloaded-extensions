@@ -14,9 +14,9 @@
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
+        "fof/split": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
-        "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
         "v17development/flarum-seo": "*"
     }
