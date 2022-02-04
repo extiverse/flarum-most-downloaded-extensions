@@ -13,7 +13,7 @@
         "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
-        "fof/split": "*",
+        "fof/reactions": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
