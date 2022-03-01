@@ -6,7 +6,6 @@
         "flarum/core": "^v1.2.0",
         "fof/best-answer": "*",
         "fof/byobu": "*",
-        "fof/default-user-preferences": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/links": "*",
@@ -15,9 +14,10 @@
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
-        "fof/split": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
-        "michaelbelgium/flarum-discussion-views": "*"
+        "fof/user-directory": "*",
+        "michaelbelgium/flarum-discussion-views": "*",
+        "v17development/flarum-seo": "*"
     }
 }
