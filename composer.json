@@ -4,6 +4,7 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.2.1",
+        "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/follow-tags": "*",
@@ -16,7 +17,6 @@
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
         "fof/upload": "*",
-        "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
         "v17development/flarum-seo": "*"
     }
