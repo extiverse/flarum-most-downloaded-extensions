@@ -10,12 +10,12 @@
         "fof/formatting": "*",
         "fof/links": "*",
         "fof/merge-discussions": "*",
+        "fof/nightmode": "*",
         "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
         "fof/split": "*",
-        "fof/user-bio": "*",
         "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
         "v17development/flarum-seo": "*"
