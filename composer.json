@@ -6,6 +6,7 @@
         "flarum/core": "^v1.4.0",
         "fof/best-answer": "*",
         "fof/byobu": "*",
+        "fof/default-user-preferences": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/links": "*",
@@ -17,7 +18,6 @@
         "fof/reactions": "*",
         "fof/split": "*",
         "fof/user-bio": "*",
-        "michaelbelgium/flarum-discussion-views": "*",
-        "v17development/flarum-seo": "*"
+        "michaelbelgium/flarum-discussion-views": "*"
     }
 }
