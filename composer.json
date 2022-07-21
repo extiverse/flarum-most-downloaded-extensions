@@ -4,11 +4,11 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.4.0",
-        "fof/best-answer": "*",
         "fof/default-user-preferences": "*",
         "fof/drafts": "*",
-        "fof/formatting": "*",
+        "fof/ignore-users": "*",
         "fof/links": "*",
+        "fof/moderator-notes": "*",
         "fof/nightmode": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
