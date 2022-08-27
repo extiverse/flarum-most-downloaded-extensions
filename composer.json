@@ -8,7 +8,7 @@
         "fof/byobu": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
-        "fof/links": "*",
+        "fof/merge-discussions": "*",
         "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
