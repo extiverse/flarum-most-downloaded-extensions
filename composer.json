@@ -4,11 +4,11 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.5.0",
+        "clarkwinkelmann/flarum-ext-circle-groups": "*",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/formatting": "*",
-        "fof/gamification": "*",
         "fof/links": "*",
         "fof/merge-discussions": "*",
         "fof/nightmode": "*",
