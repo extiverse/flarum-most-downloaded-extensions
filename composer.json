@@ -4,9 +4,10 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.5.0",
+        "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
-        "fof/follow-tags": "*",
+        "fof/default-user-preferences": "*",
         "fof/formatting": "*",
         "fof/links": "*",
         "fof/merge-discussions": "*",
@@ -15,7 +16,6 @@
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
         "fof/split": "*",
-        "fof/upload": "*",
         "michaelbelgium/flarum-discussion-views": "*",
         "v17development/flarum-blog": "*",
         "v17development/flarum-seo": "*"
