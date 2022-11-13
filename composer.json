@@ -5,19 +5,19 @@
     "require": {
         "flarum/core": "^v1.5.0",
         "fof/best-answer": "*",
-        "fof/byobu": "*",
+        "fof/default-user-preferences": "*",
+        "fof/drafts": "*",
         "fof/follow-tags": "*",
-        "fof/formatting": "*",
-        "fof/links": "*",
-        "fof/pages": "*",
+        "fof/gamification": "*",
+        "fof/moderator-notes": "*",
+        "fof/nightmode": "*",
         "fof/polls": "*",
-        "fof/profile-image-crop": "*",
         "fof/reactions": "*",
-        "fof/upload": "*",
+        "fof/sitemap": "*",
+        "fof/split": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
-        "v17development/flarum-blog": "*",
-        "v17development/flarum-seo": "*"
+        "v17development/flarum-blog": "*"
     }
 }
