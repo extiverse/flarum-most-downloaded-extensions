@@ -9,7 +9,6 @@
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/links": "*",
-        "fof/nightmode": "*",
         "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
@@ -17,6 +16,7 @@
         "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
+        "michaelbelgium/flarum-discussion-views": "*",
         "v17development/flarum-blog": "*",
         "v17development/flarum-seo": "*"
     }
