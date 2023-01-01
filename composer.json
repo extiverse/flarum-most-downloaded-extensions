@@ -8,6 +8,7 @@
         "fof/byobu": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
+        "fof/merge-discussions": "*",
         "fof/nightmode": "*",
         "fof/pages": "*",
         "fof/polls": "*",
@@ -17,7 +18,6 @@
         "fof/user-bio": "*",
         "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
-        "v17development/flarum-blog": "*",
-        "v17development/flarum-seo": "*"
+        "v17development/flarum-blog": "*"
     }
 }
