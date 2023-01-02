@@ -5,9 +5,9 @@
     "require": {
         "flarum/core": "^v1.6.2",
         "clarkwinkelmann/flarum-ext-emojionearea": "*",
-        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/default-user-preferences": "*",
+        "fof/drafts": "*",
         "fof/links": "*",
         "fof/nightmode": "*",
         "fof/polls": "*",
