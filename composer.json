@@ -1,14 +1,9 @@
 {
     "name": "extiverse/most-downloaded-extensions",
     "description": "Most downloaded Flarum extensions.",
-    "keywords": [
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.7.0",
+        "flarum/core": "^v1.7.1",
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/follow-tags": "*",
