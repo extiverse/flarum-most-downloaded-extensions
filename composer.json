@@ -1,24 +1,19 @@
 {
     "name": "extiverse/most-downloaded-extensions",
     "description": "Most downloaded Flarum extensions.",
-    "keywords": [
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.7.1",
-        "fof/best-answer": "*",
+        "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/byobu": "*",
-        "fof/formatting": "*",
+        "fof/default-user-preferences": "*",
         "fof/links": "*",
+        "fof/merge-discussions": "*",
         "fof/nightmode": "*",
-        "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
-        "fof/upload": "*",
+        "fof/split": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
