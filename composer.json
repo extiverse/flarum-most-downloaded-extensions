@@ -1,11 +1,6 @@
 {
     "name": "extiverse/most-downloaded-extensions",
     "description": "Most downloaded Flarum extensions.",
-    "keywords": [
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.8.1",
@@ -14,9 +9,9 @@
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/links": "*",
-        "fof/merge-discussions": "*",
         "fof/nightmode": "*",
         "fof/pages": "*",
+        "fof/polls": "*",
         "fof/profile-image-crop": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
