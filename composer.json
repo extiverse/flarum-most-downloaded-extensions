@@ -4,6 +4,7 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.8.1",
+        "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
@@ -12,7 +13,6 @@
         "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
-        "fof/reactions": "*",
         "fof/upload": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
