@@ -4,12 +4,12 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.8.2",
+        "clarkwinkelmann/flarum-ext-emojionearea": "*",
         "fof/best-answer": "*",
         "fof/byobu": "*",
         "fof/drafts": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
-        "fof/merge-discussions": "*",
         "fof/nightmode": "*",
         "fof/pages": "*",
         "fof/polls": "*",
