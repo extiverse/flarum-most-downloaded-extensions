@@ -13,7 +13,7 @@
         "fof/pages": "*",
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
-        "fof/upload": "*",
+        "fof/split": "*",
         "fof/user-bio": "*",
         "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
