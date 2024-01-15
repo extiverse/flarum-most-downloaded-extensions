@@ -5,7 +5,6 @@
     "require": {
         "flarum/core": "^v1.8.5",
         "fof/best-answer": "*",
-        "fof/byobu": "*",
         "fof/follow-tags": "*",
         "fof/formatting": "*",
         "fof/merge-discussions": "*",
@@ -14,6 +13,7 @@
         "fof/polls": "*",
         "fof/profile-image-crop": "*",
         "fof/reactions": "*",
+        "fof/split": "*",
         "fof/upload": "*",
         "fof/user-directory": "*",
         "michaelbelgium/flarum-discussion-views": "*",
